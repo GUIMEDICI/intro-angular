@@ -1,0 +1,24 @@
+.section-title{
+    background-color: lightgrey;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    border-radius: 30%;
+    color: darkslategray;
+}
+
+.title-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: lightgray;
+}
